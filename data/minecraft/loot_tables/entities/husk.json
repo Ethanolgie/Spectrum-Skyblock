@@ -45,7 +45,7 @@
         "entries": [
           {
             "type": "minecraft:item",
-            "name": "minecraft:zinc_ingot"
+            "name": "create:zinc_ingot"
           }
           
         ],
