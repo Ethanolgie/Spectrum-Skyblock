@@ -1,0 +1,19 @@
+{
+    "type": "spectrum:spirit_instiller",
+    "time": 800,
+    "experience": 4.0,
+    "ingredient1": {
+      "item": "minecraft:spider_eye"
+    },
+    "ingredient2": {
+      "item": "minecraft:lily_of_the_valley"
+    },
+    "center_ingredient": {
+      "item": "minecraft:sugar_cane",
+      "count": 1
+    },
+    "result": {
+      "item": "spectrum:quitoxic_reeds"
+    },
+    "required_advancement": "spectrum:unlocks/blocks/spirit_instiller"
+  }
