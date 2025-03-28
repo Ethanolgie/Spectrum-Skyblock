@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item":"spectrum:stratine_ore"
+    },
+    {
+      "item": "minecraft:fermented_spider_eye"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "spectrum:paltaeria_ore"
+    }
+  ]
+}

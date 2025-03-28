@@ -1,0 +1,21 @@
+{
+    "type": "create:mixing",
+    "heatRequirement": "heated",
+    "ingredients": [
+      {
+        "item":"minecraft:diamond"
+      },
+      {
+        "item": "minecraft:lapis_lazuli"
+      },
+      {
+        "item": "minecraft:quartz"
+      }
+    ],
+    "results": [
+      {
+        "count": 1,
+        "item": "spectrum:raw_azurite"
+      }
+    ]
+  }

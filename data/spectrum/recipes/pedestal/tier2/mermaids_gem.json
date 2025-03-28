@@ -1,0 +1,33 @@
+{
+    "type": "spectrum:pedestal",
+    "time": 600,
+    "tier": "simple",
+    "cyan": 4,
+    "magenta": 4,
+    "yellow": 0,
+    "white": 0,
+    "black": 0,
+    "experience": 2.0,
+    "pattern": [
+      " D ",
+      "EWE",
+      " D "
+    ],
+    "key": {
+      "W": {
+        "item": "minecraft:water_bucket"
+      },
+      "D": {
+        "item": "minecraft:diamond"
+      },
+      "E":{
+        "item": "minecraft:emerald"
+      }
+    },
+    "result": {
+      "item": "spectrum:mermaids_gem",
+      "count": 1
+    },
+    "required_advancement": "spectrum:craft_cmy_pedestal"
+  }
+  
