@@ -1,0 +1,18 @@
+{
+    "type": "spectrum:spirit_instiller",
+    "time": 800,
+    "experience": 4.0,
+    "ingredient1": {
+      "item": "spectrum:frostbite_crystal"
+    },
+    "ingredient2": {
+      "item": "spectrum:moonstruck_nectar"
+    },
+    "center_ingredient": {
+      "item": "spectrum:topaz_block"
+    },
+    "result": {
+      "item": "spectrum:budding_topaz"
+    },
+    "required_advancement": "spectrum:harvest_moonstruck_nectar"
+  }
